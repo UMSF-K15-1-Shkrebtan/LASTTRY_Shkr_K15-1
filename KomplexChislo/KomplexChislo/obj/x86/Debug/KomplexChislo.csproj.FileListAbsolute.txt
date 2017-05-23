@@ -1,0 +1,4 @@
+C:\Users\Ира\Documents\Visual Studio 2010\Projects\KomplexChislo\KomplexChislo\bin\Debug\KomplexChislo.exe
+C:\Users\Ира\Documents\Visual Studio 2010\Projects\KomplexChislo\KomplexChislo\bin\Debug\KomplexChislo.pdb
+C:\Users\Ира\Documents\Visual Studio 2010\Projects\KomplexChislo\KomplexChislo\obj\x86\Debug\KomplexChislo.exe
+C:\Users\Ира\Documents\Visual Studio 2010\Projects\KomplexChislo\KomplexChislo\obj\x86\Debug\KomplexChislo.pdb
